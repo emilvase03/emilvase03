@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Custom Booking System w/ admin dashboard** *(Private repo)*
 
-- 🌱 I’m currently learning **React, Next.js & .NET 8/9**
+- 🌱 I’m currently learning **React & Next.js**
 
 - 💬 Ask me about **React, Svelte & SvelteKit**
 
