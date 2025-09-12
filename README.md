@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React & Next.js**
 
-- 💬 Ask me about **React, Svelte & SvelteKit**
+- 💬 Ask me about **Web and software development**
 
 - ⚡ Fun fact **I think i am funny**
 
