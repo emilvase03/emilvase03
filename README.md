@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emilvase03" alt="emilvase03" /></a> </p>-->
 
-- 🔭 I’m currently working on **Custom Booking System w/ admin dashboard** *(Private repo)*
+- 🔭 I'm currently building PokéStock, a Pokémon price comparison and collection tracking platform.
 
 - 🌱 I’m currently learning **React & Next.js**
 
