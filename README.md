@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emilvase03" alt="emilvase03" /></a> </p>-->
 
-- 🔭 I'm currently building PokéStock, a full catalog Pokémon price comparison, listings viewer and collection tracking platform.
+- 🔭 I'm currently building PokéFinder, a full catalog Pokémon price comparison, listings viewer and collection tracking platform.
 
 - 🌱 I’m currently learning **React & Next.js**
 
